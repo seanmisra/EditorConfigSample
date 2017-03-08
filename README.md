@@ -1,6 +1,6 @@
 # EditorConfigSample
 <br>
-<h3>.editorconfig file to create a default tab-size of 4 spaces for all files.</h3>
+<h3>.editorconfig file to create a default indentation size of 4 spaces for all files.</h3>
 <p>More information here: http://editorconfig.org/</p>
 <br>
 <h3>TIP: Show Hidden Files (e.g. .editorconfig)</h3>
